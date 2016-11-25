@@ -1,2 +1,1 @@
-# practica-diaria
-para practicar el uso de github
+esto es para que se pueda subir en la rama número dos 
